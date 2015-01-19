@@ -6,12 +6,12 @@
   "primary_category": "9535f31535564355ba55c5732aec03e6", 
   "created_at": "2015-01-19T09:13:37+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-19T10:18:42.473966+00:00", 
+  "modified_at": "2015-01-19T11:10:10.702818+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "803b609d1b8e4c9a8ac942835b1b310d", 
   "published": null, 
-  "position": 3, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "newtons-2nd-law-conceptual-content-test", 
   "uuid": "ca107d3877d949c683a8ea1228bb293a"
