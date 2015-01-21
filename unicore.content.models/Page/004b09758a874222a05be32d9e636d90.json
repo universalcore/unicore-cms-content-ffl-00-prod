@@ -6,12 +6,12 @@
   "primary_category": "9535f31535564355ba55c5732aec03e6", 
   "created_at": "2015-01-19T10:34:19+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-19T10:36:20.480218+00:00", 
+  "modified_at": "2015-01-21T13:32:20.255232+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "7c4c644b3f3c450ab63f6c387ee1da83", 
   "published": null, 
-  "position": 0, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "backgroundvelocity", 
   "uuid": "004b09758a874222a05be32d9e636d90"
