@@ -10,15 +10,11 @@
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [
-    "f7df5bb7d6bf45e991dc8ce4bb277dfe", 
-    "66f52605ee7946268d3917455902b382", 
-    "bc9e4d937e1c44b6bf9a7f73a6bd77c6"
-  ], 
+  "linked_pages": [], 
   "id": null, 
   "content": "**Hello** *world*\r\n\r\n[WYSIWYG][1]\r\n[second link][2]\r\n\r\n\r\n  [1]: http://www.redcross.org\r\n  [2]: http://www.google.com\r\n\r\n 1. List \r\n     2. \r\n     3.\r\n\r\n", 
   "source": null, 
