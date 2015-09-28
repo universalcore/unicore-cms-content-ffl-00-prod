@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "8fbc7258237640988edb22951e900942", 
+  "language": "chi_CN", 
+  "title": "Test category for training purposes", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.3", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "test-category-training-purposes", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
